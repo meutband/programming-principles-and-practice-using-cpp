@@ -1,0 +1,22 @@
+# Terms
+
+- //: symbol that is used to create comments
+- <<: output operator
+- C++: programming language
+- comment: a description of what the program is supposed to do
+- compiler: a compiler that turns source code into object code
+- compile-time error:
+- cout: standard output stream (character output stream)
+- executable: a program ready to be run on a computer
+- function: a named unit of code that can be called from different parts of a program; a logical unit of computation
+- header: a file containing declarations used to share interfaces between parts of a program
+- IDE: Integrated Development Environemt
+- #include: 
+- library: a collection of types, functions, classes, etc. implemented a set of facilities meant to be potentialley used as part of more than one program
+- linker: a program that combines object code files and libraries into an executable program
+- main(): function that executes at runtime
+- object code: output from a compiler inteded as input for a linker
+- output: values produced by a computation
+- program: code that is sufficiently complete to be executed by a computer
+- source code: code as produced by a programmer and reabable by other programmers
+- statement: a basic unit of a program controlling the execution flow in a function
