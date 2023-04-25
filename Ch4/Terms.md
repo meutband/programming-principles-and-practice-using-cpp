@@ -1,0 +1,31 @@
+# Terms
+
+- abstraction: a description of something that selectively and deliverately ignores details
+- computation: the execution of some code, usutally taking some input and producing some output
+- conditional statement: a statement that is based on the state of a condition
+- declaration: the specification of a name with its type in a program
+- definition: a declaration of an entity that supplies all information necessary to complete a program using the entity
+- divide and conquer: taking a large progrem and dividing it into several little ones
+- else: the 2nd statement in a if-statement
+- expression: a computation usually yielding a value or deplying its result in an object
+- for-statement: like a while-statement except that the management of the control variable is concentrated at the top
+- range-for-statement: for statement that executes over a range (sequence) of elements (in vector)
+- function: a name sequence of statements
+- if-statement: statement that chooses between 2 alternatives. if true, the first statement is executed, otherwise the 2nd statement is executed.
+- increment: increase vzrialbe by given value
+- input: values used by a computation
+- iteration: the act of repeating executing a piece of code
+- loop: a peice of code executed repeatedly
+- lvalue: value to the left hand side of assignment
+- member function: functions that are methods of specific data types, ie vector.push_back()
+- output: values producted by a computation
+- push_back(): append to the end of vector
+- repetition: doing the same statement over and over
+- rvalue: value to the right hand side of assignment
+- selection: choosing between alternatives
+- size(): number of elements in vector (string)
+- sort(): order elements of sequence
+- statement: a basic unit of program controlling the execution flow in a function
+- switch-statement: a statement based on comparison of several contants
+- vector: sequence of elements of specific data typ4e
+- while-statement: a statement that executes 'while' a condition is being met
