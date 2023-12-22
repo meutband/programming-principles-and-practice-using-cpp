@@ -1,0 +1,22 @@
+# Terms
+
+- argument error: error when the argument value is not accepted
+- assertion: statement inserted into a prgram to state that something must always be true at the given point in the program
+- catch: the handling of an exception
+- compile-time error: errros found by compiler, usually syntax errors and type errors
+- container: object that holds other objects
+- debugging: activity of deliberately searching and removing errors
+- error: issues in a program that produces an unexpected result
+- exception: separation of a error from the handling of an error while assuring that the detected error is not ignored
+- invariant: something that must be true at a given point of a program. ie state of an object
+- link-time error: errors found by the linkerwhen it is trying to combine object files into an executable program
+- logic error: errors when program executes as designed but returns results not expected, usually by lack of understanding of function by caller/programmer. ie 2+2 = 5.
+- post-condition: a requirement of a function at its conclusion, promise that the return is valid
+- pre-condition: a requirement of a functin upon its argument, it must be true for the function to perform its action coorectly
+- range error: error caused by index was not in the range required by the container
+- requirement: description of the desired behavior of a program or part of a program
+- run-time error: errors found by checks in a running program ie hardware/os, library, or by user code
+- syntax error: code that is not well formed accourding to code grammer rules
+- testing: systematic approach to validae results against specific set of inputs
+- throw: creation and callout of an exception
+- type error: mismatches between types decared in variables/functions/etc... and the types assinged to them
